@@ -7,6 +7,10 @@ Full stack engineer from Honduras (UTC-6). I build and modernize the systems a b
 - Built the team's first CI/CD pipeline with GitHub Actions and Docker.
 - Open to remote backend and full-stack roles.
 
+### Featured project
+
+**[Business UI Gallery](https://robertomz.github.io/business-ui-gallery/)**: 33 business screens rebuilt with sample data, covering accounting, treasury, budgets, payroll, sales, inventory and IT. Each one shows the business rules behind it: entries that only save when they balance, totals that follow every filter, payroll with employer contributions and the accounting entry. [Source](https://github.com/robertomz/business-ui-gallery)
+
 ### Tech
 
 Python · Django · Django REST Framework · PHP · Laravel · MySQL · SQL Server · JavaScript · AWS (EC2, S3) · Docker · GitHub Actions · Linux
